@@ -39,4 +39,14 @@ Then add the following to the README (this is copied from the walkthrough this t
 - Run the query we have saved in the file 01_create_bookmarks_table.sql
 
 ### Wednesday 11 Mar 2020 with Peter
+No notes/
+### Thursday 21 Mar 2020 with Jara
+
+Make a new user story based on  'add new bookmarks' 
+```
+as a user
+so that I can have a dynamic list of websites
+I want to be able to add websites to my list of bookmarks
+```
+
 
